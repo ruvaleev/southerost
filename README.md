@@ -44,3 +44,8 @@ TESTING:
   ```
   rspec spec/
   ```
+
+
+DESCRIPTION OF TASK
+
+Describtion of task in file Task.pdf
